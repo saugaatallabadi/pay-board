@@ -1,6 +1,8 @@
 # PayBoard
 ### Bahrain Hackathon (Hack@TheTrack)
 
+<img src = "PayBoardLogo.png" width ="300">
+
 Payment Keyboard Application<br>**P2P/remittances transactions through all apps**
 
 #### How It Works
