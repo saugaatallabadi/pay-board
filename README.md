@@ -12,3 +12,6 @@ Payment Keyboard Application<br>**P2P/remittances transactions through all apps*
 - Input amount and note
 - Authenticate using TouchID
 - Transaction Complete!
+
+<img src = "Screenshots/4.png" width ="300">
+<img src = "Screenshots/6.png" width ="300">
