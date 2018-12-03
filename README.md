@@ -10,7 +10,7 @@
 #### How It Works
 - Install and switch to PayBoard keyboard on your device.
 - Add card in app.
-- Input your username, password,  card. 
+- Input your username, password, card. 
 - Select the person you want to send money to.
 - Input amount and note.
 - Authenticate using TouchID.
